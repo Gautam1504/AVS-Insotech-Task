@@ -25,8 +25,8 @@ When scanned, it opens a loan application form.
 
 ## Live Demo
 
-[View Live Project](https://your-project-link.com)
+[View Live Project](https://gautam1504.github.io/AVS-Insotech-Task/)
 
 
-![Screenshot 2](https://github.com/user-attachments/assets/a4cb54d2-5f31-4d1c-b3ae-b92a0c373fcf)
 ![Screenshot 1](https://github.com/user-attachments/assets/267fd640-0b0d-4d04-8beb-dc113c495022)
+![Screenshot 2](https://github.com/user-attachments/assets/a4cb54d2-5f31-4d1c-b3ae-b92a0c373fcf)
